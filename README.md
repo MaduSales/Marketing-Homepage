@@ -8,7 +8,7 @@ Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
 ## Acesso
 
-[Clique aqui para acessar! :)](https://madusales.github.io/Marketing-Homepage/)
+[Clique aqui para acessar! :)](https://madusales.github.io/Marketing-Landing-Page/)
 
 ## Tecnologias
 - HTML
